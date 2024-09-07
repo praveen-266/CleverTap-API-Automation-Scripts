@@ -31,18 +31,17 @@ The repository is organized for easy navigation:
 ├── retention_analytics/
 ├── custom_events/
 └── README.md
-
 Each folder contains scripts specific to its respective metric, along with detailed usage instructions.
 API Integration
 
-### These scripts leverage several CleverTap API endpoints:
+### These scripts leverage several CleverTap API endpoints:                      
 User Profile API
 Event API
-Segmentation API
+Segmentation API                        
 
-These scripts are aimed at simplifying the extraction of insights from CleverTap for reporting and analysis. 
-Get Started
+These scripts are aimed at simplifying the extraction of insights from CleverTap for reporting and analysis.                                  
 
+### Get Started
 Ready to supercharge your CleverTap analytics? Clone this repository and explore the scripts!
 git clone https://github.com/praveen-266/clevertap-automation-scripts.git
 cd clevertap-automation-scripts
