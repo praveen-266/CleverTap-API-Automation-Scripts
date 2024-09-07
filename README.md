@@ -16,11 +16,7 @@ In this repository, I've developed and implemented Python scripts that automate 
 - **Data Processing**: Efficiently processing large datasets, handling pagination via API cursors, and storing results in structured formats (e.g., Excel).
 - **Scheduled Automation**: Scripts that run daily, pulling updated metrics automatically without human intervention.
 
-### Key Features
-Automated Metrics: Scripts to track and analyze:
-User engagement rates
-Retention analytics
-Custom event tracking
+          
 
 ### Functionality:
 Efficient data extraction and analysis
@@ -35,15 +31,14 @@ Each folder contains scripts specific to its respective metric, along with detai
 API Integration
 
 ### These scripts leverage several CleverTap API endpoints:                      
-User Profile API
-Event API
-Segmentation API                        
+* User Profile API                                   
+* Event API                           
+* Segmentation API                                                 
+These scripts are aimed at simplifying the extraction of insights from CleverTap for reporting and analysis.                                                             
 
-These scripts are aimed at simplifying the extraction of insights from CleverTap for reporting and analysis.                                  
-
-### Get Started
-Ready to supercharge your CleverTap analytics? Clone this repository and explore the scripts!
-git clone https://github.com/praveen-266/clevertap-automation-scripts.git
-cd clevertap-automation-scripts
+### Get Started                                 
+Ready to supercharge your CleverTap analytics? Clone this repository and explore the scripts!                            
+* git clone https://github.com/praveen-266/clevertap-automation-scripts.git                               
+* cd clevertap-automation-scripts                         
 
  Feel free to explore the code, provide feedback, and contribute!
